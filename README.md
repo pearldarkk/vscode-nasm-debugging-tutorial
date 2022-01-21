@@ -36,4 +36,9 @@ Go to File > Preferences > Settings > Search for "Debug" and tick the AllowBreak
 ### *Where to type in your user input?*
 Press `ctrl + j` and go to the "Debug Console" panel to type in your input! (shown in screenshot above).  
 
+### *Where to watch my registers?*
+Go to Variables > Registers in the Debug view.  
+  
+    
+    
 Hope it helps!
