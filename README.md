@@ -9,7 +9,7 @@
 - x86 nasm Intel/C library
 - x64 nasm Intel/C library
   
-## Requirement
+## Requirements
 - VS code 
 - gdb
 - Asm Code Lens (for syntax highlighting)  
