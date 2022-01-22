@@ -39,6 +39,6 @@ Press `ctrl + j` and go to the "Debug Console" panel to type in your input! (sho
 ### *Where to watch my registers?*
 Go to Variables > Registers in the Debug view.  
   
-    
+I forked from [newtonsart](https://github.com/newtonsart/vscode-assembly) and add a little more custom configs. Thanks, newtonsart!
     
 Hope it helps!
