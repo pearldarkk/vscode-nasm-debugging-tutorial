@@ -12,7 +12,7 @@
 ## Requirements
 - VS code 
 - gdb
-- x8664assembly (for syntax highlight)
+- x8664assembly (for syntax highlight)  
 Install:  
 Press `F1` inside VS code and type in: `ext install fredhappyface.x8664assembly` (or search for this extension to install)
 - GDB Debug (for debugging)  
