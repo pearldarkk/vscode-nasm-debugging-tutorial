@@ -12,9 +12,9 @@
 ## Requirements
 - VS code 
 - gdb
-- Asm Code Lens (for syntax highlighting)  
+- x8664assembly (for syntax highlight)
 Install:  
-Press `F1` inside VS code and type in: `ext install maziac.asm-code-lens` (or search for this extension to install)
+Press `F1` inside VS code and type in: `ext install fredhappyface.x8664assembly` (or search for this extension to install)
 - GDB Debug (for debugging)  
 Install:  
 `F1` inside VS Code and type in:  `ext install DamianKoper.gdb-debug`  
@@ -39,6 +39,6 @@ Press `ctrl + j` and go to the "Debug Console" panel to type in your input! (sho
 ### *Where to watch my registers?*
 Go to Variables > Registers in the Debug view.  
   
-I forked from [newtonsart](https://github.com/newtonsart/vscode-assembly) and add a little more custom configs. Thanks, newtonsart!
+I followrd mainly from [newtonsart](https://github.com/newtonsart/vscode-assembly) and add a little more custom configs. Thanks, newtonsart!
     
 Hope it helps!
