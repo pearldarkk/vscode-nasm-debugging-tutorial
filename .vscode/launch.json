@@ -7,7 +7,7 @@
             "name": "GDB32",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "stopOnEntry": false,
-            //"preLaunchTask": "asm32"
+            "preLaunchTask": "asm32"
         },
         {
             "type": "gdb",
@@ -15,7 +15,7 @@
             "name": "GDB64",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "stopOnEntry": false,
-            //"preLaunchTask": "asm64"
+            "preLaunchTask": "asm64"
         },
         {
             "type": "gdb",
